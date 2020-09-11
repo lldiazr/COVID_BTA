@@ -7,7 +7,7 @@ Para desarrollar el ejercicio se utilizó la información que se encuentra publi
  http://saludata.saludcapital.gov.co/osb/index.php/datos-de-salud/enfermedades-trasmisibles/covid19/
 
 En una primera aproximación se consideró que la información aquí contenida podría ser suficiente sin embargo los resultados de
-la técnica analÍtica nos hacen querer buscar fuentes alternas
+la técnica analÍtica nos hacen querer buscar fuentes alternas, para lo cuál agradecemos sus observaciones.
 
 
 
